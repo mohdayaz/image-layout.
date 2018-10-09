@@ -143,6 +143,7 @@
         margin-bottom: 10px auto;
         outline: transparent; 
        overflow: hidden;
+       resize: inherit;
        
        
     }
